@@ -1,7 +1,7 @@
 var express = require('express');
 var bodyParser = require('body-parser');
 
-var port = 3030;
+var port = 3000;
 var BASE_API_PATH ="/api/v2";
 
 var contacts = [

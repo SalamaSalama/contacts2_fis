@@ -6,7 +6,7 @@ var BASE_API_PATH ="/api/v2";
 
 var contacts = [
     {"name":"peter","phone":123456},
-    {"name":"john","phone":6668}
+    {"name":"john","phone":6669}
 ];
 
 
